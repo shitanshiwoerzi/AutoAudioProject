@@ -1,0 +1,12 @@
+{
+  "title": "Stealth Escalates to Boss (City Night, 15s segments, extended)",
+  "segments": [
+    {"start": 0,   "duration": 15, "state": {"environment": "Urban", "timeOfDay": "Night", "weather": "Fog",   "currentAction": "Stealth", "actionIntensity": 0.45, "isStealth": true,  "enemyPresence": "Lurking", "enemyCount": 2, "threatLevel": 0.40, "gameLevel": "Mid",   "playerHealth": 0.90, "isBossFight": false}},
+    {"start": 15,  "duration": 15, "state": {"environment": "Urban", "timeOfDay": "Night", "weather": "Rain",  "currentAction": "Stealth", "actionIntensity": 0.50, "isStealth": true,  "enemyPresence": "Few",    "enemyCount": 3, "threatLevel": 0.55, "gameLevel": "Mid",   "playerHealth": 0.85, "isBossFight": false}},
+    {"start": 30,  "duration": 15, "state": {"environment": "Urban", "timeOfDay": "Night", "weather": "Rain",  "currentAction": "Combat",  "actionIntensity": 0.75, "isStealth": false, "enemyPresence": "Many",   "enemyCount": 6, "threatLevel": 0.70, "gameLevel": "Late",  "playerHealth": 0.80, "isBossFight": false}},
+    {"start": 45,  "duration": 15, "state": {"environment": "Urban", "timeOfDay": "Night", "weather": "Clear", "currentAction": "Combat",  "actionIntensity": 0.85, "isStealth": false, "enemyPresence": "Boss",   "enemyCount": 1, "threatLevel": 1.00, "gameLevel": "FinalBoss", "playerHealth": 0.70, "isBossFight": true}},
+    {"start": 60,  "duration": 15, "state": {"environment": "Urban", "timeOfDay": "Night", "weather": "Clear", "currentAction": "Walking", "actionIntensity": 0.30, "isStealth": false, "enemyPresence": "None",   "enemyCount": 0, "threatLevel": 0.20, "gameLevel": "FinalBoss", "playerHealth": 0.75, "isBossFight": false}},
+    {"start": 75,  "duration": 15, "state": {"environment": "Urban", "timeOfDay": "Night", "weather": "Clear", "currentAction": "Running", "actionIntensity": 0.40, "isStealth": false, "enemyPresence": "Few",    "enemyCount": 2, "threatLevel": 0.30, "gameLevel": "FinalBoss", "playerHealth": 0.80, "isBossFight": false}},
+    {"start": 90,  "duration": 15, "state": {"environment": "Urban", "timeOfDay": "Dawn",  "weather": "Clear", "currentAction": "Walking", "actionIntensity": 0.20, "isStealth": false, "enemyPresence": "None",   "enemyCount": 0, "threatLevel": 0.10, "gameLevel": "FinalBoss", "playerHealth": 0.85, "isBossFight": false}}
+  ]
+}

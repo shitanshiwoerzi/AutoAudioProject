@@ -1,0 +1,13 @@
+id,source,startSec,durationSec,withSwitchContext,note
+C001,trajectories/story_1_explore_to_combat.json,25,25,false,Calm exploration clip
+C002,trajectories/story_1_explore_to_combat.json,55,25,true,Approach to dungeon transition
+C003,trajectories/story_1_explore_to_combat.json,70,25,false,Mid-combat intensity
+C004,trajectories/story_1_explore_to_combat.json,120,25,true,Stealth entry transition
+C005,trajectories/story_2_stealth_to_boss.json,20,25,false,Night stealth ambience
+C006,trajectories/story_2_stealth_to_boss.json,55,25,true,Stealth→combat reveal
+C007,trajectories/story_2_stealth_to_boss.json,95,25,false,Boss prelude rising tension
+C008,trajectories/story_2_stealth_to_boss.json,125,25,true,Boss start transition
+C009,trajectories/story_3_city_patrol.json,20,25,false,Urban day patrol
+C010,trajectories/story_3_city_patrol.json,60,25,true,Day→night patrol shift
+C011,trajectories/story_3_city_patrol.json,90,25,false,Light skirmish in rain
+C012,trajectories/story_3_city_patrol.json,130,25,true,Combat→cooldown transition

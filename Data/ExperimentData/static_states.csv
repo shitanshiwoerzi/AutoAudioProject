@@ -1,0 +1,25 @@
+id,environment,timeOfDay,weather,currentAction,actionIntensity,isStealth,enemyPresence,enemyCount,threatLevel,gameLevel,playerHealth,isBossFight,targetNotes
+S001,Grasslands,Day,Clear,Walking,0.2,FALSE,None,0,0,Tutorial,1,FALSE,Calm exploration daytime in grasslands
+S002,Forest,Day,Clear,Walking,0.3,FALSE,Few,2,0.2,Early,0.9,FALSE,Light tension exploration in forest
+S003,Urban,Night,Fog,Stealth,0.4,TRUE,Lurking,1,0.4,Mid,0.8,FALSE,Night stealth in city; low to mid tension
+S004,DarkDungeon,Night,Clear,Combat,0.8,FALSE,Many,6,0.7,Mid,0.7,FALSE,Intense combat in dungeon at night
+S005,Ocean,Day,Clear,Swimming,0.3,FALSE,None,0,0.1,Early,0.95,FALSE,Peaceful ocean swimming
+S006,Mountain,Day,Storm,Running,0.6,FALSE,Few,3,0.5,Mid,0.8,FALSE,Stormy chase on mountain
+S007,Desert,Day,Clear,Walking,0.25,FALSE,None,0,0.1,Early,1,FALSE,Relaxed desert travel
+S008,Snow,Day,Snow,Walking,0.3,FALSE,Few,2,0.25,Early,0.85,FALSE,Cold but calm exploration
+S009,Urban,Night,Rain,Combat,0.7,FALSE,Many,7,0.65,Mid,0.75,FALSE,Urban street fight in rain
+S010,Forest,Dusk,Clear,Stealth,0.35,TRUE,Lurking,2,0.45,Mid,0.9,FALSE,Forest stealth at dusk
+S011,Grasslands,Day,Clear,Running,0.5,FALSE,Few,3,0.35,Early,0.95,FALSE,Chasing wildlife in fields
+S012,DarkDungeon,Night,Clear,Walking,0.2,FALSE,None,0,0.15,Early,0.9,FALSE,Quiet dungeon exploration before combat
+S013,DarkDungeon,Night,Clear,Combat,0.9,FALSE,Boss,1,1,FinalBoss,0.8,TRUE,Boss fight maximum tension
+S014,Urban,Day,Clear,Walking,0.2,FALSE,None,0,0.05,Early,1,FALSE,City strolling daytime
+S015,Ocean,Dawn,Clear,Walking,0.25,FALSE,None,0,0.05,Early,1,FALSE,Calm sunrise by the sea
+S016,Mountain,Dusk,Fog,Stealth,0.4,TRUE,Lurking,2,0.5,Mid,0.85,FALSE,Dusk stealth on mountain trail
+S017,Desert,Day,Storm,Combat,0.75,FALSE,Many,8,0.7,Late,0.7,FALSE,Sandstorm combat
+S018,Snow,Night,Snow,Running,0.55,FALSE,Few,3,0.45,Mid,0.85,FALSE,Night run in snowfall
+S019,Forest,Day,Clear,Combat,0.6,FALSE,Few,4,0.5,Mid,0.8,FALSE,Forest skirmish
+S020,Grasslands,Dawn,Clear,Walking,0.15,FALSE,None,0,0.05,Tutorial,1,FALSE,Tutorial morning calm
+S021,Urban,Night,Clear,Stealth,0.5,TRUE,Lurking,3,0.55,Mid,0.7,FALSE,Creeping through back alleys
+S022,Ocean,Day,Fog,Swimming,0.35,FALSE,None,0,0.15,Early,0.95,FALSE,Misty swim offshore
+S023,Mountain,Day,Clear,Flying,0.5,FALSE,None,0,0.2,Mid,0.95,FALSE,Gliding over peaks
+S024,Desert,Night,Clear,Walking,0.2,FALSE,None,0,0.15,Early,0.9,FALSE,Starry desert night
